@@ -1,4 +1,4 @@
-# Multiclass Text Classification with DistilBERT using Streamlit
+# Multiclass Text Classification Fine Tuning with DistilBERT using Streamlit
 
 ## Purpose:
 The Python script uses Streamlit along with a pre-trained DistilBERT model to classify text input into five categories: business, entertainment, politics, sport, and tech.
